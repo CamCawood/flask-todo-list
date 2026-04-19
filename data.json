@@ -1,12 +1,17 @@
 [
     {
+        "id": 1,
+        "title": "Clean the house",
+        "completed": false
+    },
+    {
         "id": 2,
         "title": "Go to the Gym",
         "completed": false
     },
     {
-        "id": 1,
-        "title": "Clean the house",
+        "id": 3,
+        "title": "Go to work",
         "completed": false
     }
 ]
